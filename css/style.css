@@ -1,0 +1,69 @@
+/* &display=swap */
+
+@import url(null.css);
+
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap");
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	max-width: 813px;
+	margin: 0 auto;
+}
+
+.title {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+	margin: 0px 0px 110px 0px;
+}
+.text {
+	margin: 63px 0px 35px 0px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+}
+
+.block__text2 {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+.text3 {
+	margin: 36px 0px 51px 0px;
+}
+
+.block__bold {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+	padding: 0px 0px 0px 50px;
+}
+.text_bold {
+	width: 752px;
+}
+
+.article__text {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin: 40px 0px 35px 0px;
+}
+ul.list {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+.list-item {
+	padding: 0px 0px 0px 31px;
+	margin: 0px 0px 4px 0px;
+}
+.end__text {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin: 24px 0px 60px 0px;
+}
